@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Mustafa Efe Karamustafa 👋</h1>
 
-<!--
-**Mustafa-Efe-Karamustafa/Mustafa-Efe-Karamustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Endüstri+Mühendisliği+Öğrencisi;Python+%26+Data+Science;Backend+Geliştirici;Yapay+Zeka+ile+ilgileniyorum&font=Fira%20Code&center=true&width=440&height=45&color=2E9EF7&vCenter=true&size=22"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Hakkımda
+
+- 🏫 İstanbul Medeniyet Üniversitesi'nde **Endüstri Mühendisliği** okuyorum 3.sınıf öğrencisiyim
+- 🏭 Haziran–Temmuz 2026'da **Maret Entegre Et Sanayi** (Tuzla, İstanbul) bünyesinde üretim stajı yaptım
+- 💻 Python ile aktif olarak **backend API** ve **veri bilimi** projeleri geliştiriyorum
+- 🤖 **Yapay zeka** ve **LLM/RAG** tabanlı uygulamalar üzerine çalışıyorum
+- 🌱 Frontend tarafında temel seviyede **HTML/CSS** biliyorum
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Data Science**
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+</p>
+
+**Yapay Zeka**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+**Veritabanı & Araçlar**
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Efe-Karamustafa&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Efe-Karamustafa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Efe-Karamustafa&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mustafa-Efe-Karamustafa&label=Profil%20Görüntülenme&color=2E9EF7&style=flat"/>
+</p>
