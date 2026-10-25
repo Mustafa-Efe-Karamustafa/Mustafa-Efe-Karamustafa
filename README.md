@@ -9,10 +9,9 @@
 ### 🎓 Hakkımda
 
 - 🏫 İstanbul Medeniyet Üniversitesi'nde **Endüstri Mühendisliği** okuyorum 3.sınıf öğrencisiyim
-- 🏭 Haziran–Temmuz 2026'da **Maret Entegre Et Sanayi** (Tuzla, İstanbul) bünyesinde üretim stajı yaptım
 - 💻 Python ile aktif olarak **backend API** ve **veri bilimi** projeleri geliştiriyorum
 - 🤖 **Yapay zeka** ve **LLM/RAG** tabanlı uygulamalar üzerine çalışıyorum
-- 🌱 Frontend tarafında temel seviyede **HTML/CSS** biliyorum
+
 
 ---
 
